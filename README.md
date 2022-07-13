@@ -1,5 +1,7 @@
 # Smart-Network-Observer-With-Energy-Framework
-A Network Observer which would provide maximum details about the network to the administrator on their screen without knowing to their users.
+A Network Observer which would provide maximum details about the network to the administrator on their screen without knowing to their users. We can say that this network observer is a type of one-stop troubleshooting powerhouse. Observer offers real-time monitoring and troubleshooting, as well as a complete trending and base lining collection system to view historical data collected for days or weeks. 
+
+
 
 
 ![image](https://user-images.githubusercontent.com/71875791/178744981-a9786fc8-363b-4b1c-964c-5929ccddeeb2.png)
@@ -23,7 +25,8 @@ vi.	Listing of all installed software on client machine.
 
 vii.	Shutting down or restarting selected client machines.
 
-![image](https://user-images.githubusercontent.com/71875791/178749391-70cfddef-149d-483d-b45c-88e470c760ae.png)
+![image](https://user-images.githubusercontent.com/71875791/178751464-861e3c9b-7c36-48e0-bf54-49c9cfeadc59.png)
+
 
                                                         Flow of Process
 
