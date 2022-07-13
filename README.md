@@ -4,7 +4,7 @@ A Network Observer which would provide maximum details about the network to the 
 
 ![image](https://user-images.githubusercontent.com/71875791/178744981-a9786fc8-363b-4b1c-964c-5929ccddeeb2.png)
                                                                                                 
-                                                      Login Window
+                                                         Login Window
  
  
  Smart Network Observer will help the Admin in fulfilling these tasks. It provides the following functionalities:
@@ -22,6 +22,11 @@ v.	 Capturing client screen.
 vi.	Listing of all installed software on client machine. 
 
 vii.	Shutting down or restarting selected client machines.
+
+![image](https://user-images.githubusercontent.com/71875791/178749391-70cfddef-149d-483d-b45c-88e470c760ae.png)
+
+                                                        Flow of Process
+
 
 Modules of Project:
 
