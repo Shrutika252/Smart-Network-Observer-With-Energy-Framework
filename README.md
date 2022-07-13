@@ -23,4 +23,21 @@ vi.	Listing of all installed software on client machine.
 
 vii.	Shutting down or restarting selected client machines.
 
+Modules of Project:
+
+•	Login Module:
+In this module Admin will login. Once he/she is login there will be all machines visible in network.
+
+•	Tracking:
+Admin can track the machine. If any suspicious event is found than it will start recording. Admin can also see all available process.
+
+•	Shutdown or Close Processes:
+Admin can close or block the processes or shutdown the machine.	
+
+•	Memory Management:
+ 	Admin will manage the memory allocated to each process present on the client machine.
+  
+•	Process Management:
+  The Admin through the server can handle the state and resource ownership of each process.
+
 
